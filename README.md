@@ -4,6 +4,9 @@ In this application I have used flutter as Mobile-end development and Node.js (N
 
 ## Some Screenshot 
 
-#### Landing Page
-![Landing page](./images/1.jpg)
+#### On Demand Schedule Page
+![On Demand_Schedule_page](./images/1.jpg)
+
+#### Previous Schedule Page
+![Previous schedule_page](./images/2.jpg)
 
